@@ -98,6 +98,10 @@
           <option name="url" value="git@git.spending.gov.ua:xm-online/xm-ms-public-registry.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xm-online/xm-online.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
