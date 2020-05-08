@@ -130,6 +130,26 @@
           <option name="url" value="https://git.spending.gov.ua/opf/verify-signature-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.spending.gov.ua/opf/open-budget-portal-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.spending.gov.ua/opf/task-ws.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://score-app13-prod.minfin.local/vitaly.murashkin/ext-connector-ws.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://127.0.0.1:8084/vitaly.murashkin/ext-connector-ws.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://127.0.0.1:8084" />
+          <option name="userName" value="vitaly.murashkin" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
