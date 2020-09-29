@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="MinjustXMLHeader" type="PLAIN_TEXT" />
       <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="testChanged" type="PLAIN_TEXT" />
