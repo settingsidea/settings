@@ -246,6 +246,14 @@
           <option name="url" value="http://localhost:8084/Verification/FileProcessing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://score-app13-prod.minfin.local" />
+          <option name="userName" value="vitaly.murashkin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://score-app13-prod.minfin.local/Verification/HeadGateComplex.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
