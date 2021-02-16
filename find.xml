@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ext-connector-ws'" />
-    <option name="defaultScopeName" value="Project 'ext-connector-ws'" />
-    <option name="SEARCH_SCOPE" value="Project 'ext-connector-ws'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
