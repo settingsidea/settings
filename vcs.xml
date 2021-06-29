@@ -306,6 +306,10 @@
           <option name="url" value="https://git.spending.gov.ua/opf/transaction-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://score-app13-prod.minfin.local/Verification/verification-external-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
