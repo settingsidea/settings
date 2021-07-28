@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="MinjustXMLHeader" type="PLAIN_TEXT" />
-      <mapping pattern="request" type="PLAIN_TEXT" />
-      <mapping pattern="testChanged" type="PLAIN_TEXT" />
-      <mapping pattern="testconfig" type="PLAIN_TEXT" />
-      <mapping pattern="logback-dev" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="requset" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="request" type="PLAIN_TEXT" />
+      <mapping pattern="logback-dev" type="PLAIN_TEXT" />
+      <mapping pattern="testconfig" type="PLAIN_TEXT" />
+      <mapping pattern="MinjustXMLHeader" type="PLAIN_TEXT" />
+      <mapping pattern="testChanged" type="PLAIN_TEXT" />
       <mapping ext="towsdl" type="PLAIN_TEXT" />
       <mapping pattern="testStudentRequest" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
