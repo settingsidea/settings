@@ -20,9 +20,9 @@
         <url>file://$USER_HOME$/Progs/asadriver/jconnect16-16.jar</url>
       </library>
     </driver>
-    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver">
+    <driver id="java.sql.Driver" name="User Driver" driver-class="com.sybase.jdbc4.jdbc.SybXADataSource">
       <library>
-        <url>file://$USER_HOME$/Documents/jconn4-16.jar</url>
+        <url>file://$USER_HOME$/Progs/asadriver/jconnect16-16.jar</url>
       </library>
     </driver>
   </component>
