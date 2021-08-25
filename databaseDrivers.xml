@@ -3,12 +3,21 @@
     <driver id="h2.unified">
       <artifact id="H2" name="H2" use="true" version="1.4.196" />
     </driver>
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.11" />
+    </driver>
     <driver id="mysql.8">
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
+    </driver>
+    <driver id="oracle.19">
+      <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
     </driver>
     <driver id="oracle">
       <url-template name="SID" template="dwh" />
       <artifact id="Oracle" name="Oracle" use="true" version="12.2.0.1" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
     <driver id="sybase.jtds">
       <artifact />
