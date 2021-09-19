@@ -318,6 +318,18 @@
           <option name="url" value="http://score-app13-prod.minfin.local/Verification/verification-directories.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://score-app13-prod.minfin.local/data-providers-office/dpo-rest-services.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://score-app13-prod.minfin.local/vitaly.murashkin/minjust-alimony.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/asimio/spring-data-jpa-n-plus-1-select.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
@@ -329,6 +341,7 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
