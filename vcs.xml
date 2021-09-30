@@ -330,6 +330,14 @@
           <option name="url" value="https://bitbucket.org/asimio/spring-data-jpa-n-plus-1-select.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.spending.gov.ua/opf/spending-contracts-ws.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.spending.gov.ua/ws-api/dwh-dict-public-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
