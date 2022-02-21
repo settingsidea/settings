@@ -10,6 +10,7 @@
       <mapping pattern="MinjustXMLHeader" type="PLAIN_TEXT" />
       <mapping pattern="testChanged" type="PLAIN_TEXT" />
       <mapping ext="towsdl" type="PLAIN_TEXT" />
+      <mapping ext="res" type="PLAIN_TEXT" />
       <mapping pattern="testStudentRequest" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
