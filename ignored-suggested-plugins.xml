@@ -4,6 +4,7 @@
       <list>
         <option value="com.intellij.guice" />
         <option value="idea.plugin.protoeditor" />
+        <option value="com.haulmont.jpab" />
       </list>
     </option>
   </component>
