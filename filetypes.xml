@@ -14,6 +14,7 @@
       <mapping pattern="testChanged" type="PLAIN_TEXT" />
       <mapping ext="towsdl" type="PLAIN_TEXT" />
       <mapping ext="res" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping pattern="testStudentRequest" type="XML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
