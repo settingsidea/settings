@@ -414,6 +414,10 @@
           <option name="url" value="https://git.spending.gov.ua/opf/spending-public-portal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://score-app13-prod.minfin.local/EbgUI/messageReader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
