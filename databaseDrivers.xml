@@ -4,7 +4,7 @@
       <artifact id="H2" name="H2" use="true" version="2.1.210" />
     </driver>
     <driver id="mongo">
-      <artifact id="MongoDB" name="MongoDB" use="true" version="1.15" />
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.16" />
     </driver>
     <driver id="mysql.8">
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
